@@ -47,26 +47,6 @@ GameVault is an interactive Business Intelligence solution designed to analyze g
 ---
 
 # Dashboard Pages
-
-# Dashboard Navigation
-
-The dashboard is designed to guide users through a complete analytical workflow.
-
-Home
-  │
-  ├── Executive Overview
-  │
-  ├── Sales Analysis
-  │
-  ├── Platform Analysis
-  │
-  ├── Genre Analysis
-  │
-  ├── Publisher Analysis
-  │
-  ├── Regional Analysis
-  │
-  └── Ratings Analysis
 ---
 
 ## Executive Overview
@@ -81,7 +61,7 @@ The landing page provides an executive summary of the gaming industry using high
 * Dynamic Filters
 * Summary Visualizations
 
-<img src="Overview.png">
+<img src="Overview.jpg">
 
 ---
 
