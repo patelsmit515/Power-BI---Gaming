@@ -81,10 +81,8 @@ The landing page provides an executive summary of the gaming industry using high
 * Dynamic Filters
 * Summary Visualizations
 
-<p align="center">
-<img src="Overview.png" width="90%">
-</p>
 
+<img src="Overview.png">
 ---
 
 ## Sales Trend Analysis
@@ -98,10 +96,7 @@ Analyze global video game sales over four decades to identify growth patterns an
     * Best Performing Years
     * Historical Comparison
     
-    <p align="center">
-    <img src="Sales.jpg" width="90%">
-    </p>
-    
+    <img src="Sales.jpg">
     ---
 
 ## Platform Analysis
@@ -115,10 +110,7 @@ Compare gaming platforms based on sales performance and market dominance.
     * Market Share
     * Platform Comparison
     
-    <p align="center">
-    <img src="Platforms.jpg" width="90%">
-    </p>
-
+    <img src="Platforms.jpg">
 ---
 
 ## Genre Analysis
@@ -131,11 +123,8 @@ Understand which genres consistently drive sales and player engagement.
     * Revenue Distribution
     * Market Trends
     * Best Performing Genres
-    
-    <p align="center">
-    <img src="Genre Analysis.jpg" width="90%">
-    </p>
-
+   
+    <img src="Genre Analysis.jpg">
 ---
 
 ## Publisher Analysis
@@ -149,10 +138,8 @@ Evaluate leading publishers and compare their commercial success.
     * Market Share
     * Top Selling Publishers
     
-    <p align="center">
-    <img src="Publishers.jpg" width="90%">
-    </p>
 
+    <img src="Publishers.jpg">
 ---
 
 ## Regional Analysis
@@ -165,10 +152,8 @@ Explore how different regions contribute to worldwide game sales.
     * Market Distribution
     * Geographic Trends
     * Regional Revenue
-    
-    <p align="center">
-    <img src="Regional.jpg" width="90%">
-    </p>
+
+    <img src="Regional.jpg">
 
 ---
 
@@ -182,11 +167,8 @@ Investigate the relationship between critic scores and commercial success.
     * Score Distribution
     * Rating vs Sales
     * Popular Titles
-    
-    <p align="center">
-    <img src="Ratings.jpg" width="90%">
-    </p>
-
+  
+    <img src="Ratings.jpg">
 ---
 
 # Business Questions Answered
