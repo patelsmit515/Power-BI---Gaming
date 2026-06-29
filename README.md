@@ -81,7 +81,6 @@ The landing page provides an executive summary of the gaming industry using high
 * Dynamic Filters
 * Summary Visualizations
 
-
 <img src="Overview.png">
 
 ---
