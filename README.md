@@ -112,7 +112,8 @@ Compare gaming platforms based on sales performance and market dominance.
     * Market Share
     * Platform Comparison
     
-    <img src="Platforms.jpg">
+<img src="Platforms.jpg">
+
 ---
 
 ## Genre Analysis
