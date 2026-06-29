@@ -201,32 +201,6 @@ This project showcases practical Business Intelligence and analytics skills, inc
 
 ---
 
-# Repository Structure
-
-GameVault/
-│
-├── Dashboard.pbix
-├── README.md
-├── LICENSE
-│
-├── Dataset/
-│   └── video-game-sales.csv
-│
-├── docs/
-│   ├── home.png
-│   ├── sales-analysis.png
-│   ├── platform-analysis.png
-│   ├── genre-analysis.png
-│   ├── publisher-analysis.png
-│   ├── regional-analysis.png
-│   └── ratings-analysis.png
-│
-└── Assets/
-    └── Logo.png
-```
-
----
-
 # Getting Started
 
 ### Clone Repository
