@@ -83,6 +83,7 @@ The landing page provides an executive summary of the gaming industry using high
 
 
 <img src="Overview.png">
+
 ---
 
 ## Sales Trend Analysis
@@ -96,8 +97,9 @@ Analyze global video game sales over four decades to identify growth patterns an
     * Best Performing Years
     * Historical Comparison
     
-    <img src="Sales.jpg">
-    ---
+<img src="Sales.jpg">
+  
+  ---
 
 ## Platform Analysis
 
@@ -124,7 +126,8 @@ Understand which genres consistently drive sales and player engagement.
     * Market Trends
     * Best Performing Genres
    
-    <img src="Genre Analysis.jpg">
+<img src="Genre Analysis.jpg">
+
 ---
 
 ## Publisher Analysis
@@ -139,7 +142,8 @@ Evaluate leading publishers and compare their commercial success.
     * Top Selling Publishers
     
 
-    <img src="Publishers.jpg">
+<img src="Publishers.jpg">
+
 ---
 
 ## Regional Analysis
@@ -153,7 +157,7 @@ Explore how different regions contribute to worldwide game sales.
     * Geographic Trends
     * Regional Revenue
 
-    <img src="Regional.jpg">
+<img src="Regional.jpg">
 
 ---
 
@@ -168,7 +172,8 @@ Investigate the relationship between critic scores and commercial success.
     * Rating vs Sales
     * Popular Titles
   
-    <img src="Ratings.jpg">
+<img src="Ratings.jpg">
+
 ---
 
 # Business Questions Answered
